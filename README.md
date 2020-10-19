@@ -6,13 +6,7 @@ My interests and experiences lie mainly in AI/machine learning, virtual reality,
 
 While you're here, please feel free to check out some of my projects
 * `EnsembleVR` - VR application that uses techniques such as Hierarchical Hidden Markov Models and Kalman Filtering to play "live", realistic accompaniment and simulate a classical music performance.
-  * [VR app](https://github.com/dartmouth-cs98/20w-ensemble)
-  * [Accompaniment Model](https://github.com/dartmouth-cs98/20w-ensemble-vr-score-following)
   * [Blog Post](https://medium.com/dartmouth-cs98/ensemblevr-overcoming-your-stage-fright-with-virtual-reality-27636ba4a2eb)
 * `Course Watch Utility` - User-friendly web app originally designed to help me and my friends register for Dartmouth classes, but now made open to the public. 
-  * [Frontend](https://github.com/MarshallPeng/Course-Watch-Utility-Frontend)
-  * [Backend](https://github.com/MarshallPeng/Course-Watch-Utility-Backend)
 * `D-path` - Android app for a Dartmouth class recommendation system using collaborative filtering algorithms.
-  * [App](https://github.com/jamesjinlee/dpath)
-  * [Collaborative Filtering Scripts](https://github.com/MarshallPeng/dpath-backend)
 * Many more! _Real-time online multiplayer card games, reinforcement learning, virtual reality_

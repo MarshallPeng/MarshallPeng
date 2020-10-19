@@ -9,4 +9,4 @@ While you're here, please feel free to check out some of my projects
   * [Blog Post](https://medium.com/dartmouth-cs98/ensemblevr-overcoming-your-stage-fright-with-virtual-reality-27636ba4a2eb)
 * **Course Watch Utility** - User-friendly web app originally designed to help me and my friends register for Dartmouth classes, but now made open to the public. 
 * **D-path** - Android app for a Dartmouth class recommendation system using collaborative filtering algorithms.
-* Many more! _Real-time online multiplayer card games, reinforcement learning, virtual reality_
+* And many more! _Real-time online multiplayer card games, reinforcement learning, virtual reality 🌲 pong_

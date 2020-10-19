@@ -5,8 +5,8 @@ My name is **Marshall Peng**. I recently graduated from 🌲 Dartmouth College '
 My interests and experiences lie mainly in AI/machine learning, virtual reality, and full stack development. If you have exciting opportunities relating to these topics, feel free to reach out as I'd love to learn more!
 
 While you're here, please feel free to check out some of my projects
-* `EnsembleVR` - VR application that uses techniques such as Hierarchical Hidden Markov Models and Kalman Filtering to play "live", realistic accompaniment and simulate a classical music performance.
+* **EnsembleVR** - VR application that uses techniques such as Hierarchical Hidden Markov Models and Kalman Filtering to play "live", realistic accompaniment and simulate a classical music performance.
   * [Blog Post](https://medium.com/dartmouth-cs98/ensemblevr-overcoming-your-stage-fright-with-virtual-reality-27636ba4a2eb)
-* `Course Watch Utility` - User-friendly web app originally designed to help me and my friends register for Dartmouth classes, but now made open to the public. 
-* `D-path` - Android app for a Dartmouth class recommendation system using collaborative filtering algorithms.
+* **Course Watch Utility** - User-friendly web app originally designed to help me and my friends register for Dartmouth classes, but now made open to the public. 
+* **D-path** - Android app for a Dartmouth class recommendation system using collaborative filtering algorithms.
 * Many more! _Real-time online multiplayer card games, reinforcement learning, virtual reality_

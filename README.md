@@ -1,5 +1,7 @@
 ### Hi there, 👋
 
+![](https://komarev.com/ghpvc/?username=MarshallPeng)
+
 My name is **Marshall Peng**. I recently graduated from 🌲 Dartmouth College '20 🌲 with a Bachelors in computer science and economics, as well as a minor in statistics. I'm currently a Software Development Engineer at Amazon. Prior to this, I was a software engineering intern at Apple for a couple terms. Outside of work and school, I enjoy running, playing various musical instruments, and playing badminton. 
 
 My interests and experiences lie mainly in AI/machine learning, virtual reality, and full stack development. If you have exciting opportunities relating to these topics, feel free to reach out as I'd love to learn more!
